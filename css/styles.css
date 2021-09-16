@@ -1,0 +1,14 @@
+:root {
+  --primary-title-color: #fffff;
+  --secondary-title-color: #212121;
+  --primary-text-color: #757575;
+  --accent-color: #2196f3;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.title {
+  color: var(--primary-text-color);
